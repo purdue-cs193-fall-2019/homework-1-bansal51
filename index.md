@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Yash Bansal's First CS193 Homework
 
--I think that the class is very helpful in terms of the resources we will be using in the future (terminal, etc.)
--The instructors for the class make the experience engaging and easy to understand
+- I think that the class is very helpful in terms of the resources we will be using in the future (terminal, etc.)
+- The instructors for the class make the experience engaging and easy to understand
 
 ### Markdown
 
